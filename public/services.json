@@ -1,0 +1,58 @@
+[
+    {
+        "service_id": "01",
+        "title": "Photo Shoots",
+        "img": "https://i.ibb.co/QMXp08Z/pexels-oleksandr-pidvalnyi-2070485.jpg",
+        "price": "10000.00",
+        "description": "Each picture has a story to tell. Also, picture act as a point of reference for our memory and takes us back in time in order to experience the series of events which led to that particular photo along with emotions and contemplation."
+    },
+    {
+        "service_id": "02",
+        "title": "Wedding Photography",
+        "img": "https://i.ibb.co/Y717tC0/pexels-wendel-moretti-1730877.jpg",
+        "price": "25000.00",
+        "description": "Photography for a wedding is vital since it will document the events of the day, preserve your memories, and tell a story on a deeper level than any other media."
+    },
+    {
+        "service_id": "03",
+        "title": "Video Shoots",
+        "img": "https://i.ibb.co/GHbqFHj/pexels-cottonbro-studio-5878871.jpg",
+        "price": "9000.00",
+        "description": "Anytime is good time as long as you have something to shoot. It all depends on what you want to shoot."
+    },
+    {
+        "service_id": "04",
+        "title": "Family Photography",
+        "img": "https://i.ibb.co/McMttKK/pexels-melike-benli-7392324.jpg",
+        "price": "20000.00",
+        "description": "Family photos connect us to those who came before. By letting your kids see your photos from the past and the present, they become connected to their own story. "
+    },
+    {
+        "service_id": "05",
+        "title": "Makeup Shoots",
+        "img": "https://i.ibb.co/J5dn1Xm/pexels-vince-mariel-conlu-17118617.jpg",
+        "price": "14000.00",
+        "description": "The number one thing you need to remember about makeup for photoshoots is that the camera never captures makeup and color in quite as much vibrancy as is visible in real life."
+    },
+    {
+        "service_id": "06",
+        "title": "Fashion Photography",
+        "img": "https://i.ibb.co/M9SJbvK/pexels-pratik-gupta-3672825.jpg",
+        "price": "22000.00",
+        "description": "It highlights the beauty of the model. The makeup, hair, and styling of the model are prominent, but their features are also equally important."
+    },
+    {
+        "service_id": "07",
+        "title": "Photo Editing",
+        "img": "https://i.ibb.co/GnXXNd8/pexels-george-milton-7014402.jpg",
+        "price": "4500.00",
+        "description": "Editing helps you get the best image possible, as close to what you imagined when you took the photo. So  image editing is one of the most crucial and inseparable tasks to make ordinary images look extraordinary."
+    },
+    {
+        "service_id": "08",
+        "title": "Photo Printing",
+        "img": "https://i.ibb.co/9VcW44x/pexels-george-milton-7015073.jpg",
+        "price": "4220.00",
+        "description": "Having a print that you can hold in your hand makes your memories all the more meaningful. Physical prints are a profound way to remember, to look back on, and to cherish."
+    }
+]
